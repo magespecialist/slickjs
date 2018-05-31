@@ -2,7 +2,6 @@
     "name": "msp/slick",
     "description": "Magento 2 wrapper for kenwheeler/slick 1.8.1",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
         "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
