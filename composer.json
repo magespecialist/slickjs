@@ -1,6 +1,6 @@
 {
     "name": "msp/slick",
-    "description": "Magento 2 wrapper for kenwheeler/slick 1.8.1",
+    "description": "Magento 2 wrapper for kenwheeler/slick",
     "require": {
         "magento/magento-composer-installer": "*"
     },
