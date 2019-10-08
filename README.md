@@ -3,7 +3,7 @@ This module lets you use [Slick](https://github.com/kenwheeler/slick/) with Mage
 
 ## Installation
 ```
-composer require msp/owlcarousel2
+composer require msp/slick
 bin/magento setup:upgrade
 ```
 
